@@ -1,0 +1,35 @@
+/** @autor iago**/
+/* layout 
+---------*/
+
+#digidoc{
+    text-align: justify;
+}
+
+#digidoc img {
+    position: relative;
+    margin-top: 0; 
+}
+
+#quemsomos{
+    border: 20px 20px;
+    padding: 15px 15px ;
+    text-align: center;
+}
+
+#cartoes{
+    margin-bottom: 40px;
+    position: relative;
+}
+
+
+/**Footer **/
+
+footer{
+    background:rgb(233, 233, 233);
+    padding: 15px 50px 15px 50px;
+    clear: both;
+    height: 220px;
+    text-align: center;
+   
+}
